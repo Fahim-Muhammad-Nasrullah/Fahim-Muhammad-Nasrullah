@@ -1,5 +1,5 @@
 ### 💻Software Engineer
-
+![Fahim's github stats](https://github-readme-stats.vercel.app/api?username=Fahim-Muhammad-Nasrullah&count_private=true)
 <!--
 **Fahim-Muhammad-Nasrullah/Fahim-Muhammad-Nasrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
